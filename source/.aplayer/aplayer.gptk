@@ -1,0 +1,58 @@
+#exit
+guide = esc
+
+#move
+up = up
+#move
+down = down
+#seek
+left = left
+#seek
+right = right
+
+#play
+a = enter
+#level up
+b = backspace
+#stop
+x = s
+#pause/resume
+y = space
+
+#play next
+r1 = n
+
+#Play mode
+l1 = p
+#loop
+l2 = l
+#equalizer
+r2 = e
+
+#lock/unlock
+start = c
+
+#speed
+select = i
+
+#visual on
+right_analog_up = k
+
+#visual off
+right_analog_down = j
+
+#visual next
+right_analog_left = g
+
+#visual prev
+right_analog_right = h
+
+
+
+
+
+
+
+
+
+
